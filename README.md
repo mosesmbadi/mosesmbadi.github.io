@@ -1,2 +1,2 @@
 # mosesmbadi.github.io
- portfolio
+ My Graphic design and Web Develoepr Portfolio
