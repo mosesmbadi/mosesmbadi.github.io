@@ -1095,3 +1095,11 @@ section .container {
     transform: translateX(-50%);
   }
 }
+
+
+.comingsoon{
+  position: absolute;
+  top:400px;
+  left:300px;
+
+}
